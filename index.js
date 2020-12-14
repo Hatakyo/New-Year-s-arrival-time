@@ -16,6 +16,7 @@ function countDown() {
     document.getElementById('minutes').innerHTML = minutes;
     document.getElementById('seconds').innerHTML = seconds;
 
+
 }
 
 countDown();
