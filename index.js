@@ -1,4 +1,4 @@
-var newYear = ' 1 January 2021';
+var newYear = ' 1 January 2022';
 
 function countDown() {
     var newYearDAy = new Date(newYear);
